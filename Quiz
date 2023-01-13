@@ -1,0 +1,77 @@
+jQuery Study File
+
+1. Which of the following is correct?
+    jQuery is a JavaScript Library
+    
+2. jQuery uses CSS selectors to select elements?
+  True
+  
+3. Which sign does jQuery use as a shortcut for jQuery?
+  The $ sign.
+  
+4. Look at the following selector: $("div"). What does it select?
+  All div elements
+  
+5. Is jQuery a library for client scripting or server scripting?
+  Client scripting
+  
+6. Is it possible to use jQuery together with AJAX?
+  Yes 
+  
+7. The jQuery html() method works for both HTML and XML documents
+  True
+
+8. What is the correct jQuery code to set the background color of all p elements to red?
+  $("p").css("background-color","red");  
+
+9. With jQuery, look at the following selector: $("div.intro"). What does it select?
+  All div elements with class="intro"
+
+10. Which jQuery method is used to hide selected elements?
+  hide() 
+
+11. Which jQuery method is used to set one or more style properties for selected elements?
+  css() 
+
+12. Which jQuery method is used to perform an asynchronous HTTP request?
+  jQuery.ajax()  
+
+13. What is the correct jQuery code for making all div elements 100 pixels high?
+  $("div").height(100) 
+
+14. Which statement is true?
+  To use jQuery, you can refer to a hosted jQuery library at Google  
+
+15. What scripting language is jQuery written in?
+  JavaScript
+
+16. Which jQuery function is used to prevent code from running, before the document is finished loading?
+  $(document).ready() 
+
+17. Which jQuery method should be used to deal with name conflicts?
+  noConflict() 
+
+18. Which jQuery method is used to switch between adding/removing one or more classes (for CSS) from selected elements?
+  toggleClass()
+
+19. Look at the following selector: $("div p"). What does it select?
+  Look at the following selector: $("div p"). What does it select?
+
+20. Is jQuery a W3C standard?
+  No
+
+21. Look at the following selector: $("p#intro"). What does it select?
+  The p element with id="intro" 
+
+22. Which jQuery method is used to remove selected elements? 
+  detach() and remove()  
+
+23. Look at the following selector: $(":disabled"). What does it select?
+  All disabled input elements 
+
+24.Which jQuery method returns the direct parent element of the selected element?
+  parent()
+
+25.The jQuery animate() method can be used to animate ANY CSS property?
+  The jQuery animate() method can be used to animate ANY CSS property?
+  
